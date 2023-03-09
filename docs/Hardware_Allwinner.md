@@ -7,7 +7,7 @@ Many Armbian images come in two flavours : _Legacy_ (using an older kernel versi
  * _Legacy_ kernel (5.4.x): DT (Device Tree) overlays
  * _Current_ kernel (5.10.x) : DT (Device Tree) overlays
 
-**Note:** Support for older kernel versiones (like 3.4.x or 3.10.x) has been dropped.
+**Note:** Support for older kernel versions (like 3.4.x or 3.10.x) has been dropped.
 
 ### What flavour am I using ?
 
